@@ -1,2 +1,2 @@
-# CNA
-Cell Node Architecture
+# NAIL
+Node Architecture Instruction Layer
